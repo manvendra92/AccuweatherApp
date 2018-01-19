@@ -1,0 +1,38 @@
+<elements xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../resources/DOMElements.xsd">
+    <element name="agreeButton">
+        <id>com.accuweather.android:id/dialog_button</id>
+    </element>
+
+    <element name="agreeButtonOnCurrentLocationPopup">
+        <id>com.accuweather.android:id/yes_text</id>
+    </element>
+
+    <element name="currentText">
+        <id>com.accuweather.android:id/current_text_label</id>
+        <name>CURRENT</name>
+    </element>
+
+    <element name="currentConditionIcon">
+        <id>com.accuweather.android:id/current_conditions_icon</id>
+    </element>
+
+    <element name="shareIcon">
+        <id>com.accuweather.android:id/action_share</id>
+    </element>
+
+    <element name="celsiusText">
+        <id>com.accuweather.android:id/current_conditions_temp_unit</id>
+    </element>
+
+    <element name="currentBlock">
+        <id>com.accuweather.android:id/current_conditions_view_id</id>
+    </element>
+
+    <element name="tempText">
+        <id>com.accuweather.android:id/current_conditions_temp</id>
+    </element>
+    <element name="tempOnCurrentConditionPage">
+        <id>com.accuweather.android:id/dialog_current_conditions_temperature</id>
+    </element>
+
+</elements>
